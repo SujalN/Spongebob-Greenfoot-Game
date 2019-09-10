@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=FallingObjects
+comment0.text=\n\ This\ is\ the\ parent\ class\ for\ all\ falling\ objects\ in\ the\ game.\ Its\ code\ is\ \n\ universal\ amongst\ subclasses.\n\ \n\ @author\ Sujal\ Nahata\n\ @version\ v1\ 08/09/2019\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ Execute\ the\ fall\ method.\n
+comment2.params=
+comment2.target=void\ fall()
+comment2.text=\n\ If\ an\ object\ is\ not\ at\ the\ bottom\ of\ the\ screen,\ make\ it\ fall\ at\ \n\ dropSpeed.\n
+comment3.params=
+comment3.target=boolean\ checkBottom()
+comment3.text=\n\ If\ the\ object\ generated\ is\ higher\ in\ the\ Y\ position\ that\ 570,\ it\ falls\n\ at\ dropSpeed.\n
+numComments=4

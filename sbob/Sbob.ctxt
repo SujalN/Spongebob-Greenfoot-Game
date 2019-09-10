@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Sbob
+comment0.text=\n\ This\ class\ represents\ the\ character\ that\ the\ player\ controls.\ This\ \n\ character\ can\ be\ moved\ left\ and\ right\ to\ catch\ gold\ and\ dodge\ traps.\n\ \n\ @author\ Sujal\ Nahata\n\ @version\ v1\ 08/09/2019\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\n\ The\ character\ moves\ with\ respect\ to\ the\ player's\ left\ and\ right\ arrow\n\ controls\ and\ the\ value\ of\ the\ gold\ varaible\ increases\ everytime\ the\ \n\ character\ catches\ gold.\n
+comment2.params=
+comment2.target=boolean\ canCatchGold()
+comment2.text=\n\ This\ boolean\ method\ helps\ to\ determine\ whether\ gold\ is\ caught\ or\ not.\n
+comment3.params=
+comment3.target=void\ CatchGold()
+comment3.text=\n\ This\ is\ the\ method\ that\ executes\ code\ when\ gold\ is\ caught.\ \n\ It\ plays\ a\ "cha-ching"\ sound\ to\ indicate\ that\ event\ and\ removes\ that\ \n\ piece\ of\ gold.\n
+comment4.params=
+comment4.target=boolean\ canGetTrapped()
+comment4.text=\n\ This\ boolean\ method\ helps\ to\ determine\ whether\ the\ sbob\ character\ has\ \n\ touched\ a\ trap\ or\ not.\n
+comment5.params=
+comment5.target=void\ GetTrapped()
+comment5.text=\n\ This\ is\ the\ method\ that\ executes\ code\ when\ the\ sbob\ is\ trapped.\ It\ \n\ plays\ a\ "bonk"\ sound\ to\ indicate\ that\ event\ and\ removes\ that\ piece\ of\ \n\ gold.\n
+numComments=6

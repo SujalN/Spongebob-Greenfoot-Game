@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=WaterWorld
+comment0.text=\n\ This\ class\ represents\ the\ background\ and\ world\ setup\ of\ the\ game.\ All\n\ other\ class\ files\ execute\ their\ methods\ based\ on\ this\ class.\n\ \n\ @author\ Sujal\ Nahata\n\ @version\ v1\ 08/09/2019\n
+comment1.params=
+comment1.target=WaterWorld()
+comment1.text=\n\ The\ background\ is\ set\ as\ the\ class\ image\ (the\ picture\ displaying\n\ cartoonistic\ marine\ life)\ and\ sized\ to\ 800\ by\ 600\ pixels.\n
+comment2.params=
+comment2.target=void\ dropGold()
+comment2.text=\n\ Images\ of\ PirateGold\ are\ created\ at\ the\ top\ of\ the\ interaction\ screen.\n\ They\ spawn\ at\ random\ horizontal\ locations.\n
+comment3.params=
+comment3.target=void\ dropTrap()
+comment3.text=\n\ Images\ of\ CrabTrap\ are\ created\ at\ the\ top\ of\ the\ interaction\ screen.\n\ They\ spawn\ at\ random\ horizontal\ locations.\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\n\ The\ PirateGold\ and\ CrabTrap\ elements\ are\ dropped\ at\ random\ times.\n
+comment5.params=
+comment5.target=void\ prepare()
+comment5.text=\n\ A\ Sbob\ is\ spawned\ at\ (399,\ 527)\ with\ a\ size\ of\ 328\ by\ 537\ pixels.\n
+numComments=6
